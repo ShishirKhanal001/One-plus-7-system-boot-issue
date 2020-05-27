@@ -8,10 +8,12 @@
 
 Oneplus 7 
 
-### OS version (KitKat/Lollipop/Marshmallow/Nougat):
+### OS version:
 
 Android = 10 Q
-Rom = Aosio test
+
+Rom = Aosip test
+
 Twrp = latest mauronoforio
 
 ### Built from repo (date and build command) or downloaded from website (links):
